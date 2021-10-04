@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 45px;
+}
+.btn{
+    color:#fff;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom,#e75690 0%, #ff0062 100%);
+    border: none;
+    border-radius:8px;
+    cursor: pointer;
+}
+
+/* .orange-bg{
+    background: #efefef;
+    border-radius: 14px
+
+} */
+
+.aligns {
+    text-align: center;
+}
+
+
+.hope{
+    border: none;
+    
+box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+border-radius: 8px;
+
+}
+
+
+
